@@ -1,2 +1,11 @@
 # Flowchart-maker
-A Python tkinter-based GUI application implementing object-oriented design with FlowchartShape and FlowchartArrow classes, featuring canvas-based vector graphics rendering, state management with undo/redo history, JSON serialization for persistence, and event-driven mouse interactions for geometric shape manipulation and Bézier curve arrow drawing.
+A Python-based graphical application for designing flowcharts with customizable shapes and connectors using Tkinter.
+
+✨ Features
+Drag-and-drop creation of flowchart shapes (rectangle, diamond, oval, star, etc.)
+Multiple arrow/connector styles: straight, curved, dashed, double, bidirectional, thick, and dotted
+Text editing for each shape
+Shape selection, movement, and deletion
+Undo/Redo support for actions
+Save/load flowcharts as .json files
+Clean and responsive GUI with scrollable canvas
